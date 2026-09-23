@@ -1,0 +1,6 @@
+store_id,store_name,city,store_type
+S001,NusantaraMart Serang,Serang,SUPERMARKET
+S002,NusantaraMart Tangerang,Tangerang,SUPERMARKET
+S003,NusantaraMart Jakarta Selatan,Jakarta,SUPERMARKET
+S004,NusantaraMart Bekasi,Bekasi,MINIMARKET
+S005,NusantaraMart Bogor,Bogor,MINIMARKET

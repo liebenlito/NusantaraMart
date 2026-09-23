@@ -1,0 +1,81 @@
+product_id,category_id,product_name,brand,unit_price
+P0001,CAT01,Instant Noodles Chicken,SariRasa,3500
+P0002,CAT01,Jasmine Rice 5kg,Nusantara,72000
+P0003,CAT01,White Bread,RotiKita,18500
+P0004,CAT01,Eggs 10 pcs,TernakJaya,27500
+P0005,CAT01,Cooking Oil 1L,DapurNusa,19500
+P0006,CAT01,Sugar 1kg,ManisNusa,16500
+P0007,CAT01,Flour 1kg,DapurNusa,14000
+P0008,CAT01,Biscuits 200g,Kriuk,12500
+P0009,CAT01,Canned Sardines,LautKita,23000
+P0010,CAT01,Frozen Nuggets 500g,RasaPrima,42000
+P0011,CAT02,Mineral Water 600ml,Segar,4000
+P0012,CAT02,Bottled Tea 450ml,DaunSegar,6500
+P0013,CAT02,Orange Juice 1L,BuahKita,28500
+P0014,CAT02,UHT Milk 1L,SusuNusa,21000
+P0015,CAT02,Ground Coffee 200g,KopiPagi,32000
+P0016,CAT02,Instant Coffee Sachet 10pk,KopiPagi,18000
+P0017,CAT02,Chocolate Drink 200ml,CoklatKu,7500
+P0018,CAT02,Isotonic Drink 500ml,Aktiva,9000
+P0019,CAT02,Soy Milk 1L,SoyaNusa,24000
+P0020,CAT02,Sparkling Water 330ml,Segar,8500
+P0021,CAT03,Shampoo 170ml,Cantika,27500
+P0022,CAT03,Bath Soap 90g,Cantika,6500
+P0023,CAT03,Toothpaste 120g,Senyum,15500
+P0024,CAT03,Toothbrush Medium,Senyum,12000
+P0025,CAT03,Facial Wash 100ml,Bening,29500
+P0026,CAT03,Body Lotion 200ml,Cantika,34000
+P0027,CAT03,Deodorant Roll-on,Aktif,25000
+P0028,CAT03,Hand Sanitizer 100ml,Bersih,18000
+P0029,CAT03,Tissue Facial 250s,Lembut,21500
+P0030,CAT03,Cotton Buds 100s,Lembut,9000
+P0031,CAT04,Dishwashing Liquid 750ml,Bersih,18500
+P0032,CAT04,Laundry Detergent 800g,Bersih,23500
+P0033,CAT04,Floor Cleaner 800ml,Kilap,21000
+P0034,CAT04,Trash Bags 20s,RumahKu,16000
+P0035,CAT04,Kitchen Towels 2roll,Lembut,14500
+P0036,CAT04,LED Bulb 12W,Terang,31000
+P0037,CAT04,Food Container 1L,RumahKu,28000
+P0038,CAT04,Sponge 3pcs,Bersih,8500
+P0039,CAT04,Air Freshener 250ml,Harum,27000
+P0040,CAT04,Aluminum Foil 10m,DapurNusa,24000
+P0041,CAT05,USB-C Cable 1m,Digipro,45000
+P0042,CAT05,USB Charger 20W,Digipro,98000
+P0043,CAT05,Power Bank 10000mAh,VoltNusa,185000
+P0044,CAT05,Wireless Mouse,KlikPro,125000
+P0045,CAT05,Keyboard Compact,KlikPro,175000
+P0046,CAT05,Earphones Wired,Nada,65000
+P0047,CAT05,Bluetooth Speaker Mini,Nada,215000
+P0048,CAT05,Flash Drive 64GB,DataKu,89000
+P0049,CAT05,Phone Stand,Digipro,35000
+P0050,CAT05,HDMI Cable 2m,VoltNusa,75000
+P0051,CAT06,Basic T-Shirt,KainKita,79000
+P0052,CAT06,Polo Shirt,KainKita,129000
+P0053,CAT06,Casual Socks 3pk,Langkah,45000
+P0054,CAT06,Baseball Cap,GayaNusa,65000
+P0055,CAT06,Canvas Tote Bag,GayaNusa,55000
+P0056,CAT06,Rain Poncho,Langkah,48000
+P0057,CAT06,Sandals,Langkah,85000
+P0058,CAT06,Simple Belt,GayaNusa,72000
+P0059,CAT06,Sports Towel,Aktiva,59000
+P0060,CAT06,Reusable Shopping Bag,KainKita,25000
+P0061,CAT07,Vitamin C 30 tabs,SehatPlus,52000
+P0062,CAT07,Multivitamin 30 tabs,SehatPlus,78000
+P0063,CAT07,Plaster 20s,MediNusa,18500
+P0064,CAT07,Face Mask 10s,MediNusa,22000
+P0065,CAT07,Antiseptic Liquid 100ml,MediNusa,24000
+P0066,CAT07,Herbal Drink 6pk,HerbaNusa,36000
+P0067,CAT07,Eucalyptus Oil 60ml,HerbaNusa,27000
+P0068,CAT07,Thermometer Digital,MediNusa,69000
+P0069,CAT07,Hand Warmer Patch 5s,MediNusa,32000
+P0070,CAT07,ORS Sachet 5pk,SehatPlus,15000
+P0071,CAT08,Ballpoint Pen 3pk,TulisKu,12000
+P0072,CAT08,A5 Notebook,TulisKu,18000
+P0073,CAT08,HB Pencil 6pk,TulisKu,15000
+P0074,CAT08,Eraser 2pk,TulisKu,7000
+P0075,CAT08,Permanent Marker,TulisKu,11000
+P0076,CAT08,Sticky Notes 3x3,KertasKu,16000
+P0077,CAT08,A4 Paper 100s,KertasKu,22000
+P0078,CAT08,Clear Folder 5pk,ArsipKu,17500
+P0079,CAT08,Ruler 30cm,TulisKu,8500
+P0080,CAT08,Highlighter 2pk,TulisKu,14500
